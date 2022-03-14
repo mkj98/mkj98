@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mkj98
 - 👀 I’m interested in web developmenet 
-- 🌱 I’m currently learning nex.js
+- 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on strapi project
 - 📫 How to reach me m.k.jdevw@gmail.com
 
